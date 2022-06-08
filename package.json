@@ -15,8 +15,8 @@
   "author": "Juna Luna <desarrolloaplicacionesweb.jmlb@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "next": "^9.3.4",
-    "next-pwa": "^2.3.3",
+    "next": "^12.1.6",
+    "next-pwa": "^5.5.4",
     "prismjs": "^1.20.0",
     "raw-loader": "^1.0.0",
     "react": "^16.13.1",
